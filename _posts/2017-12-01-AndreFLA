@@ -1,0 +1,11 @@
+---
+layout: posts
+title:  "Botão do Pânico UNESP Bauru - Um protótipo para as universidades públicas brasileiras"
+date:   2017-12-01 16:16:40 -0600
+categories: trabalho
+autornick: AndreFLA
+autor: "André Fonseca Leopoldino Alves"
+orientador: "Profa. Dra. Simone das Graças Domingues Prado"
+---
+A violência no Brasil é evidente. As universidades públicas possuem livre acesso e é comum enfrentarem dificuldades para garantir a segurança de quem a frequenta. O processo para implantar medidas para sanear a situação é lento e burocrático. O avanço da tecnologia da informação mudou a forma de interação entre as pessoas e transformou o computador de mesa em um aparelho de mão com alta conectividade e poder de processamento, capaz de obter sua geolocalização através do GPS. Este projeto teve como objetivo desenvolver um aplicativo móvel capaz de acionar a segurança do campus de uma universidade através de um “botão do pânico”. Foram utilizados tecnologias de última geração como Angular e Google Firebase para implementar o sistema, a fim de buscar máxima performance e eficiência neste protótipo.
+
