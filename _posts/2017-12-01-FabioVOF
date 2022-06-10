@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Rede social para usuários de jogos digitais"
+date:   2017-12-01 16:16:38 -0600
+categories: trabalho
+autornick: FabioVOF
+autor: "Fábio Vinícius de Oliveira Ferreira"
+orientador: "Prof. Dr. Marco Antônio Rahal Sacoman"
+---
+A World Wide Web (em português rede de alcance mundial) é uma aplicação onde documentos e páginas web são interconectadas através de ligações e que se utiliza da Internet para funcionar (SANTOS, 2015). Com a facilidade do acesso a internet, informações e conhecimentos são disseminados rapidamente, já que seus dados são de fácil acesso e novos conteúdos são criados. Redes sociais são importantes para o compartilhamento desses conteúdos ao permitirem interações entre seus usuários, que dividem experiência e informações; e estão sendo largamente usadas pelos usuários para troca de ideias e interação em jogos. Há, porém, uma dispersão desses gamers, em comunidades e fóruns distintos, dificultando não somente a comunicação entre os mesmos como a divulgação de novos jogos e a construção de um sistema de recomendação eficiente e relevante. O objetivo do sistema apresentado neste trabalho foi o desenvolvimento de um website de uma rede social voltada para usuários de jogos digitais para proporcionar uma experiência de interação entre gamers muito maior, evitando sua dispersão em outras aplicações web cujo público não é específico para jogos, contribuindo também para os desenvolvedores, com divulgação em um ambiente melhor e mais fácil de seus jogos. Um sistema de recomendação foi implementado para que o usuário conheça novos jogos dependendo de sua preferência. Esse website de uma rede social beneficia os jogadores com construção de um espaço mais organizado e dinâmico, permitindo compartilhamento de ideias acerca de jogos, interação com novas pessoas com interesses semelhantes e construção de novos conhecimentos.
