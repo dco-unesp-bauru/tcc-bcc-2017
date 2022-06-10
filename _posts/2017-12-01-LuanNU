@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Aplicação e análise comparativa do desempenho de classificadores de padrões para o sistema de detecção de intrusão Snort"
+date:   2017-12-01 16:16:33 -0600
+categories: trabalho
+autornick: LuanNU
+autor: "Luan Nunes Utimura"
+orientador: "Prof. Dr. Kelton Augusto Pontara da Costa"
+---
+A todo instante, inúmeros dispositivos e aplicações fazem uso da infraestrutura da Internet. Consequentemente, a quantidade e variedade de dados que trafegam nas redes de computadores do mundo todo renovam-se dia após dia, tornando-se um grande desafio saber lidar, da melhor forma possível, com a segurança de sistemas computacionais. Dentre os principais mecanismos de segurança utilizados neste contexto, destacam-se os Sistemas de Detecção de Intrusão (SDI). Com heurísticas de detecção baseadas em assinaturas de pacotes, é possível prevenir-se de ameaças conhecidas, contudo, em um ambiente onde invasores constantemente almejam acessos não-autorizados, é preciso proteger-se de novas ameaças, fazendo-se o uso de heurísticas de detecção baseadas em anomalias. Diferentemente das assinaturas, as anomalias possuem diversas facetas e padrões comportamentais, que podem ser explorados por meio de técnicas da Inteligência Artificial. Deste modo, este trabalho propõe um estudo comparativo do desempenho de dois classificadores de padrões, baseados em Perceptron Multicamadas (Multilayer Perceptron - MLP) e Floresta de Caminhos Ótimos (Optimum-Path Forest - OPF). Ainda, a aplicação das técnicas foi colocada à prova com o desenvolvimento de um plug-in para um SDI código-aberto existente e amplamente utilizado, conhecido por Snort. Com a finalização do projeto, os resultados obtidos mostraram-se válidos, tendo em vista as acurácias observadas em cada técnica e a aplicabilidade delas em uma ferramenta real de detecção de intrusão.
