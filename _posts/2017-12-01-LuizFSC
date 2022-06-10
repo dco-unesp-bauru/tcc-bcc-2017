@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Protótipo open-source de sistema integrado para o Restaurante Universitário da UNESP Bauru"
+date:   2017-12-01 16:16:32 -0600
+categories: trabalho
+autornick: LuizFSC
+autor: "Luiz Fernando da Silva Cieslak"
+orientador: "Prof. Dr. Sidnei Bergamaschi"
+---
+O presente Trabalho de Conclusão de Curso trata sobre a criação de um protótipo de um sistema de gerenciamento do Restaurante Universitário da UNESP Bauru, contendo um aplicativo móvel feito em Ionic para a compra e venda de refeições, um website para os funcionários adicionarem o cardápio e realizarem outros tipos de operações, interligados por um servidor e banco de dados providos pelo Firebase. O sistema resolve problemas recorrentes presentes na implementação atual e tem objetivo de ser open-source, sendo mantido pela comunidade de estudantes.
