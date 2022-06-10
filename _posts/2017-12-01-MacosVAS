@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Ferramenta para o desenvolvimento de protótipo de LMS para dispositivos móveis"
+date:   2017-12-01 16:16:31 -0600
+categories: trabalho
+autornick: MarcosVAS
+autor: "LMarcos Vinicius Alves Sartori"
+orientador: "Profa. Dra. Andréa Carla Gonçalves Vianna"
+---
+Com o aumento da disponibilidade de informação e seus novos meios de acesso, os estudantes encontram novas oportunidades para aprender e melhorar suas habilidades em cada vez menos tempo. As empresas, escolas e faculdades também se utilizam da tecnologia e da internet para diminuir custos e aumentar a produtividade, tornando possível o aprendizado em qualquer hora e lugar. Este trabalho visa coletar as ferramentas necessárias para a construção de um protótipo de um Sistema de Gerenciamento de Aprendizado (LMS) para dispositivos móveis Android, com o desenvolvimento baseado nas principais tecnologias da atualidade, com a intenção do protótipo final ser escalável para grandes grupos de alunos e professores.
