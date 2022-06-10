@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Team Manager: Gerenciador de Equipes"
+date:   2017-12-01 16:16:39 -0600
+categories: trabalho
+autornick: ElisaCL
+autor: "Elisa Castro Livramento"
+orientador: "Prof. Dr. Eduardo Martins Morgado"
+---
+Num cenário atual de constante modificações globais geradas pela inserção de tecnologia no cotidiano do Homem, ao abranger, especificamente, o cenário empresarial, verifica-se que, antes atuando numa linha de produção simples e contínua, agora as empresas encaram mudanças culturais e de valores em cada membro da produção, se deparando com a necessidade de diariamente reavaliar o investimento no bem-estar de suas equipes de funcionários e no fluxo de trabalho de seus projetos. Quando estabelecidos a equipe e o projeto, surge o papel do gerente de projetos, que provê o intermédio entre ambos, criando, assim, o elo entre projeto e equipe e atuando como o vínculo de comunicação entre a empresa e os funcionários. Infelizmente, o gerente de projetos nem sempre recebe o devido auxílio quando se trata de lidar com pessoas: no mercado é de grande facilidade encontrar softwares que gerenciem projetos, mas não que gerenciem pessoas. De acordo com pesquisas realizadas previamente, nas principais plataformas de venda de aplicativos e aplicações web, não existem ferramentas Mobile específicas para gerência de equipes. Desta forma, o presente trabalho encontra propósito e visa construir uma ferramenta voltada para dispositivos móveis e, assim, preencher a carência deste tipo de ferramenta no mercado, como resultado final que abrangendo tanto a àrea de Mobile quanto a àrea de web, uma vez que é construído com o framework Ionic, o qual gera aplicações híbridas, que rodam tanto em celulares quanto em navegadores.
