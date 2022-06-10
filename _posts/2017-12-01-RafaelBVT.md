@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Desenvolvimento de Aplicativo para Visualização Científica para Ensino de Química"
+date:   2017-12-01 16:16:27 -0600
+categories: trabalho
+autornick: RafaelBVT
+autor: "Rafael Baldoni do Valle Tallim"
+orientador: "Prof. Dr. José Remo Ferreira Brega"
+---
+A química é a ciência que estuda a composição, a estrutura, e as propriedades da matéria, unido as transformações realizadas pela mesma. Um dos componentes fundamentais para compreender esta ciência são as moléculas, entidades químicas eletricamente neutras constituídas por, pelo menos, dois átomos unidos através de ligações covalentes, ou atração eletrostática. Cada molécula possui suas próprias características que as levam a se comportar de diferentes maneiras quando expostas a certas condições, uma destas características é a geometria molecular, que é determinada pela disposição espacial dos átomos que compõe a molécula. Quando estudadas, tradicionalmente, as moléculas são representadas através de modelos bidimensionais, como é o caso em livros e apostilas, porém esta representação acaba dificultando a compreensão de sua geometria molecular. Este trabalho teve como objetivo o desenvolvimento de um aplicativo para smartphone, que possibilita uma visualização tridimensional de moléculas a partir de arquivos de coordenadas atômicas, facilitando assim a percepção de sua geometria molecular e trazendo um nível maior de interatividade com o usuário. O aplicativo foi desenvolvido para o sistema operacional Android, através da ferramenta Unity3D, e permite que o usuário tenha acesso tanto a moléculas pré-carregadas, quanto a moléculas armazenadas em um repositório online, fornecendo uma ferramenta de busca para isso. O aplicativo também proporciona ao usuário a capacidade de acessar informações complementares relacionadas a molécula que está sendo visualizada, auxiliando seu processo de aprendizado. Após explicações a respeito do processo de desenvolvimento são apresentadas imagens de cada um dos módulos da versão final do aplicativo em funcionamento, e posteriormente é feita uma conclusão mostrando que os objetivos do projeto foram satisfeitos.
