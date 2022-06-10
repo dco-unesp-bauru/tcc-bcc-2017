@@ -1,0 +1,10 @@
+---
+layout: posts
+title:  "Aprendizado de Máquina: Estudo de Caso em Bolsa de Valores"
+date:   2017-12-01 16:16:34 -0600
+categories: trabalho
+autornick: JoãoPV
+autor: "João Paulo de Vasconcelos"
+orientador: "Prof. Dr. João Paulo Papa"
+---
+Este projeto tem como objetivo apresentar os diversos métodos utilizados para Aprendizagem de Máquina para a predição de dados principalmente para a bolsa de valores e aplicar o método a um protótipo de sistema que tem por finalidade realizar a predição de ações para fins de estudo. Este trabalho expõe os métodos populares para a predição de dados com foco em ações da bolsa de valores que utilizam sistemas automatizados. Também destaca técnicas de tratamento de dados anterior a predição, o pré-processamento, e a aprendizagem de máquina supervisionada, como Máquina de Vetores de Suporte, Support Vector Regression (SVR), 1-vizinho Mais Próximo e K-vizinhos Mais Próximos. Este trabalho também tem como propósito transmitir os pontos de se criar aplicações multiplataforma, não apenas em foco de algoritmos, mas também em métodos para que facilite o entendimento dos estudos sobre Aprendizagem de Máquina e uma melhor experiencia para os usuários frisando a utilização do Python como linguagem plataforma. As ferramentas utilizadas durante o desenvolvimento do protótipo são listadas. Ao final, é discutido a importância do estudo da Aprendizagem de Máquina.
